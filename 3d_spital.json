@@ -1,0 +1,53 @@
+{
+    "output": {
+        "blocklist": [],
+        "plugins_order": [
+            "stereo_tools#0",
+            "reverb#0",
+            "limiter#0"
+        ],
+        "stereo_tools#0": {
+            "bypass": false,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "mode": "LR > LR (Stereo Default)",
+            "balance-in": 0.0,
+            "balance-out": 0.0,
+            "stereo-base": 30.0,
+            "stereo-phase": 0.0,
+            "delay": 0.0,
+            "side-level": 3.0,
+            "side-balance": 0.0,
+            "middle-level": 0.0,
+            "middle-panorama": 0.0,
+            "mutel": false,
+            "muter": false,
+            "phasel": false,
+            "phaser": false,
+            "softclip": false,
+            "sc-level": 1.0
+        },
+        "reverb#0": {
+            "bypass": false,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "room-size": "Medium",
+            "decay-time": 0.9,
+            "predelay": 15.0,
+            "diffusion": 0.5,
+            "hf-damp": 12000.0,
+            "bass-cut": 200.0,
+            "treble-cut": 14000.0,
+            "amount": -30.0,
+            "dry": 0.0
+        },
+        "limiter#0": {
+            "bypass": false,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "limit": -1.0,
+            "lookahead": 5.0,
+            "release": 5.0
+        }
+    }
+}
