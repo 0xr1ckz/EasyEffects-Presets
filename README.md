@@ -1,4 +1,4 @@
-# EasyEffects HRIR Presets (Atmos-like, headphones)
+# EasyEffects Presets (Atmos-like, headphones)
 
 Output-chain presets for [EasyEffects](https://github.com/wwmm/easyeffects) that add per-ear (HRIR/BRIR) convolution, a tuned EQ, bass harmonics and a limiter.
 
