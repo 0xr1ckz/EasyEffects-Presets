@@ -150,7 +150,6 @@ Only the front-left and front-right virtual speakers (around +/-30 degrees) are 
 - **Preset not in the list:** run `./install_all.sh` from the main folder of this repo, then restart EasyEffects.
 - **No change in the sound:** make sure the preset is loaded under **Output** and the Convolver is switched on with an impulse response selected.
 - **Too loud, quiet or distorted:** lower your system volume first, then try `atmos-v3-night` or `atmos-neutral-ku100`.
-- **Sounds odd on speakers:** these presets are made for headphones only.
 
 ## Credits and license
 
